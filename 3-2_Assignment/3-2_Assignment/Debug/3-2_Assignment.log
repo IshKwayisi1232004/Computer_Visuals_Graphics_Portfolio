@@ -1,0 +1,17 @@
+﻿  SceneManager.cpp
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(197,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(197,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(197,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(229,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(229,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(229,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(263,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(263,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(297,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(297,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(331,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(331,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(365,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(365,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Source\SceneManager.cpp(434,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  3-2_Assignment.vcxproj -> C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\3-2_Assignment\Debug\3-2_Assignment.exe
