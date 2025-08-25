@@ -1,0 +1,11 @@
+﻿  ViewManager.cpp
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(142,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(143,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(148,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(149,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(152,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(153,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(169,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(176,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(253,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  4-2_Assignment.vcxproj -> C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\4-2_Assignment\Debug\4-2_Assignment.exe
