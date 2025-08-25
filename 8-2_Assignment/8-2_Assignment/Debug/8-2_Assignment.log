@@ -1,0 +1,49 @@
+﻿  MainCode.cpp
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Utilities\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Utilities\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Utilities\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Utilities\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Utilities\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Utilities\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Source/MainCode.cpp')
+      C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Libraries\GLFW\include\GLFW\glfw3.h(123,1):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(13,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(97,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(101,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(102,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(111,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(112,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(235,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(239,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(254,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(254,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(255,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(255,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(255,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(256,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(256,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(256,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(257,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(257,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(272,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(273,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(279,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(342,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(342,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(342,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  8-2_Assignment.vcxproj -> C:\Users\spyro\OneDrive\Desktop\CS330\CS330Content\CS330Content\Projects\8-2_Assignment\Debug\8-2_Assignment.exe
